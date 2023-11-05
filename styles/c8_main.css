@@ -141,6 +141,14 @@ aside {
 	float: right;
 	padding: 0 0 20px 20px;
 }
+h1 {
+  padding-bottom: 6px;
+  margin-bottom: 6px;
+  padding-top: 6px;
+  margin-top: 6px;
+  border-bottom: solid 3px #800000;
+}
+
 aside h2 {
 	color: #800000;
 	font-size: 130%;
