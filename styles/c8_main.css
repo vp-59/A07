@@ -86,7 +86,11 @@ header img {
 }
 
 /* the styles for the section */
-
+section {
+	width: 525px;
+	float: right;
+	padding: 0 20px 20px 20px;
+}
 section h1 {
 	font-size: 150%;
 	padding: .5em 0 .25em 0;
